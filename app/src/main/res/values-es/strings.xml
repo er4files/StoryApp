@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Historias</string>
+    <string name="signup">Registrarse</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="message_welcome_page">¡Comparte tus historias cotidianas o experiencias memorables en la Aplicación de Historias!</string>
+    <string name="title_welcome_page">¡Bienvenido a la Aplicación de Historias!</string>
+    <string name="title_signup_page">Crea una cuenta nueva para compartir tus historias</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="message_login_page">Inicia sesión para compartir tus historias</string>
+    <string name="title_login_page">Comparte tus historias con el mundo</string>
+    <string name="name">Nombre</string>
+    <string name="message_main_page">Disfruta compartiendo tus historias y experiencias en la Aplicación de Historias.</string>
+    <string name="greeting">Hola, %1$s,</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="judulstory">Título</string>
+    <string name="deksripsistory">Esta es la descripción de la historia</string>
+    <string name="camera_x">CámaraX</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload">Subir</string>
+    <string name="deskripsi">Descripción</string>
+    <string name="menu_1">Menú 1</string>
+
+    <string name="empty_image_warning">Por favor, inserta primero un archivo de imagen.</string>
+
+</resources>

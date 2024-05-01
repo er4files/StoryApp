@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Bagikan cerita sehari-harimu atau pengalaman berkesan di Aplikasi Cerita!</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi Cerita!</string>
+    <string name="title_signup_page">Buat akun baru untuk berbagi ceritamu</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masuk untuk berbagi ceritamu</string>
+    <string name="title_login_page">Berbagi ceritamu dengan dunia</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Nikmati berbagi cerita dan pengalamanmu di Aplikasi Cerita.</string>
+    <string name="greeting">Halo, %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="judulstory">Judul</string>
+    <string name="deksripsistory">Ini adalah deskripsi cerita</string>
+    <string name="camera_x">KameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="menu_1">Menu 1</string>
+
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+
+</resources>

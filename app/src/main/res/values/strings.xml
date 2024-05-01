@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Share your everyday stories or memorable experiences on Story App!</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="title_signup_page">Create a new account to share your stories</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Log in to share your stories</string>
+    <string name="title_login_page">Share your stories with the world</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Enjoy sharing your stories and experiences on Story App.</string>
+    <string name="greeting">Hello, %1$s,</string>
+    <string name="logout">Log Out</string>
+    <string name="judulstory">Title</string>
+    <string name="deksripsistory">This is the story description</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="deskripsi">Description</string>
+    <string name="menu_1">Menu 1</string>
+
+    <string name="empty_image_warning">Please insert an image file first.</string>
+
+</resources>
